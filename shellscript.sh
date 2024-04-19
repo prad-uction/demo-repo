@@ -1,1 +1,2 @@
-In the shell script!!
+#!/bin/bash
+echo "In the shell script!!"
